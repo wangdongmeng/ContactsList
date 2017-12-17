@@ -3,6 +3,8 @@ An implementation of Android contacts list.
 
 Can be easily applied to other list with floating section bar.
 
+http://www.jianshu.com/p/52bce7f59c00
+
 通讯录实现，附带滚动侧栏、浮动标题头。
 
 可复用为其他需要实现滑动标题头的列表控件。
